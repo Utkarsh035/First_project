@@ -1,0 +1,134 @@
+
+*{
+    box-sizing: border-box;
+ }.upper_body{
+    width: 100%;
+    height: 80px ;
+    border: 2px black dotted;
+    background-color: #182130;
+    opacity: 100%;
+}
+.heading{
+    text-align: center;
+    font-style: robot;
+    color:rgb(156, 155, 171);
+    text-decoration: underline;
+    font-family: 'Times New Roman', Times, serif;
+}
+.mid_body{
+    width: 100%;
+    text-align: center;
+    float: center;
+    background-color:#101620 ;
+    opacity: 100%;
+}
+.img{
+    width: 55%;
+    height: 300px;
+    box-shadow: black;
+}
+
+.lower_body{
+    
+width: 100%;
+background-color:rgba(0, 0, 0, 0.959);
+opacity: 100%;
+
+
+}
+.h{
+    color: white;
+    text-align: center;
+    opacity: 100%;
+}
+.cat{
+    text-align: center;
+    color: rgba(183, 175, 175, 0.795);
+    font-style: italic;
+    font-size: 38px;
+    text-decoration: underline;
+    opacity: 100%;
+}
+.pic{
+    float: center;
+    height: 90px;
+    width: 200px;
+}
+.png{
+    height: 80%;
+    width: 7%;
+}
+
+
+.logo{
+    height: 100%;
+    width: 12%;
+    float: left;
+}
+.follow{
+    text-align: center;
+    
+    color: rgb(239, 234, 234);
+    text-decoration: underline;
+    font-size: 15px;
+}
+.icon{
+    
+    margin-left: 46.5%;
+    height: 25px;
+    width: 100px;
+    align-items: center;
+}
+.icon2{
+    margin-left: 45.5%;
+    height: 35px;
+    width: 125px;
+    margin-top: 5px;
+    
+}
+.search-box{
+    position: absolute;
+    top: 2.5%;
+    margin-top: 35px;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    background-color:black;
+    height: 70px;
+    border-radius: 40px;
+    width: 550px;
+    padding: 20px;
+}
+.search-btn{
+    color: yellow;
+    float: right;
+    width: 40px;
+    height: 40px;
+    border-radius: 50px;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    padding-bottom: 10px;
+}
+.search-txt{
+    border: none;
+    background: none;
+    outline: none;
+    float: left;
+    padding: 0;
+    color: white;
+    font-size: 20px;
+    transition: 0.4s;
+    line-height: 40px;
+    width: 240px;
+}
+.link{
+    color: rgb(153, 153, 153);
+    font-style: normal;
+}
+.name_tag
+{
+    text-align: center;
+    color: rgba(166, 163, 163, 0.783);
+    font-size: 7px;
+    text-decoration: underline;
+}
